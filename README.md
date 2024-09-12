@@ -1,4 +1,4 @@
-<h1>Portfólio - Programador Front-End </h1>
+<h1>Kauê Godêncio - Programador Front-End </h1>
 
 <h2>Sobre Mim</h2>
 
